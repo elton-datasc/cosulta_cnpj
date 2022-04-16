@@ -1,4 +1,4 @@
-# Cosulta_cnpj
+# Consulta_cnpj
 Consulta dados de CNPJ via API da RFB
 
 ### Consulta CNPJ - Receita Federal do Brasil
